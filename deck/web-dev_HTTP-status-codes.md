@@ -12,7 +12,7 @@ links:
 
 > HTTP (protocol) status codes are numeric codes sent by a server to indicate the status of a client's request.
 
-![Image](./attachments/server-response-status-codes.jpg)
+![Image](./attachments/web-dev_HTTP-status-codes.jpg)
 
 ### more
 

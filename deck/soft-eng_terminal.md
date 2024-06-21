@@ -16,11 +16,11 @@ links:
 
 > A terminal (emulator) is a program that provides a text-based command line interface to a local or remote computer. Terminal emulators simulate how hardware terminals send text commands, but also include additional features...
 
-![Image](./attachments/Pasted-image-20240616112822.png)
+![Image](./attachments/soft-eng_shell-bash-zsh-fish-terminal.png)
 
 ### more
 
-### hardware terminal
+#### hardware terminal
 
 Computers in the 1970s were large, expensive machines that were often used in a time-sharing system. Time-sharing allowed multiple people to use a computer at once, splitting its computing resources between everyone and maximizing the amount of work it could do in a day. Users connected to the computer using terminals — simple, low-power devices consisting of a monitor and keyboard, without any built-in computing power. A terminal connected to a remote computer relayed text commands from the user to the computer, then displayed output from the computer on its screen.
 

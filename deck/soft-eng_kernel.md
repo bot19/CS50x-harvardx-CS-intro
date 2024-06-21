@@ -16,5 +16,5 @@ links:
 
 > The kernel is the core component of an operating system. It manages system resources like memory, processes, and devices. It acts as a bridge between the hardware and software.
 
-![Image](./attachments/Pasted-image-20240616115854.png)
-![Image](./attachments/Pasted-image-20240616115414.png)
+![Image](./attachments/soft-eng_kernel.png)
+![Image](./attachments/soft-eng_kernel-input-output.png)

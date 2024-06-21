@@ -14,7 +14,7 @@ links:
 
 > a RESTful API organises resources into a set of unique URIs; URIs differentiate different resources on a server
 
-![Image](./attachments/URIs.jpg)
+![Image](./attachments/web-dev_REST-API-URIs.jpg)
 
 ### more
 

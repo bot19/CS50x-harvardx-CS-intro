@@ -14,7 +14,7 @@ links:
 
 > APIs are a way for different software systems to communicate with each other and exchange data
 
-![Image](./attachments/API.jpg)
+![Image](./attachments/soft-eng_API.jpg)
 
 ### More
 

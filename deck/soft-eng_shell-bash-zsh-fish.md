@@ -16,8 +16,8 @@ links:
 
 > shell: the kernel is wrapped in a shell; which is just a program that exposes the kernel to the user allowing for "simple instructions in a command line interface (CLI) with text input" (not part of the shell)
 
-![Image](./attachments/Pasted-image-20240616114129.png)
-![Image](./attachments/Pasted-image-20240616112822.png)
+![Image](./attachments/soft-eng_shell-bash-zsh-fish.png)
+![Image](./attachments/soft-eng_shell-bash-zsh-fish-terminal.png)
 
 ### more
 

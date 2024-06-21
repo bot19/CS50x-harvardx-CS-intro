@@ -17,11 +17,11 @@ links:
 
 > POST, GET, PUT, DEL is the 4 basic operations/CRUD for a REST API
 
-![Image](./attachments/request-verbs-and-CRUD.jpg)
+![Image](./attachments/soft-eng_CRUD-idempotent-request-verbs-CRUD.jpg)
 
 > when an API is idempotent making multiple identical requests has the same effect as making a single request
 
-![Image](./attachments/HTTP-request-actions-idempotent-vs-not.jpg)
+![Image](./attachments/soft-eng_CRUD-idempotent.jpg)
 
 ### more
 

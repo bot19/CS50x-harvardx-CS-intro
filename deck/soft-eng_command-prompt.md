@@ -13,7 +13,7 @@ links: []
 
 > It is the terminal emulator program that renders and displays the command prompt to the user. The shell does not directly control or display the prompt itself.
 
-![Image](./attachments/Pasted-image-20240616114343.png)
+![Image](./attachments/soft-eng_command-prompt.png)
 
 ### more
 
