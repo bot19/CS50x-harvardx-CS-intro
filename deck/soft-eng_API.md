@@ -1,8 +1,7 @@
 ---
 title: What is an API?
 category: software engineering
-keywords:
-  - API
+keywords: API
 order: 1
 created: 2023-01-20
 modified: 2024-06-22
