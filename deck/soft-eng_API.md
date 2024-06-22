@@ -1,11 +1,11 @@
 ---
 title: What is an API?
 category: software engineering
-tags:
-  - "#mdfc-deck-tech"
+keywords:
+  - API
 order: 1
 created: 2023-01-20
-modified: 2024-06-10
+modified: 2024-06-22
 links:
   - https://www.youtube.com/watch?v=-mN3VyJuCjM
 ---

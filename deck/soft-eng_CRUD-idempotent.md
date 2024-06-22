@@ -1,11 +1,10 @@
 ---
 title: What is CRUD?
 category: software engineering
-tags:
-  - mdfc-deck-tech
+keywords: CRUD, create, read, update, delete, POST, GET, PUT, idempotent, basic operations, REST API
 order: 5
 created: 2024-06-10
-modified: 2024-06-15
+modified: 2024-06-22
 links:
   - https://youtu.be/-mN3VyJuCjM
   - https://www.freecodecamp.org/news/crud-operations-explained/

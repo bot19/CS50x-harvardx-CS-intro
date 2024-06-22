@@ -1,11 +1,10 @@
 ---
 title: What are HTTP status codes?
 category: web development
-tags:
-  - mdfc-deck-tech
+keywords: HTTP status codes, 200, 300, 400, 401, 404, 500
 order: 4
 created: 2024-06-10
-modified: 2024-06-15
+modified: 2024-06-22
 links:
   - https://youtu.be/-mN3VyJuCjM
 ---

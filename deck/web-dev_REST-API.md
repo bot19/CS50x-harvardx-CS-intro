@@ -1,11 +1,10 @@
 ---
 title: What is a REST API?
 category: web development
-tags:
-  - mdfc-deck-tech
+keywords: API, REST API, RESTful, URIs, pagination, versioning, stateless
 order: 2
 created: 2023-01-20
-modified: 2024-06-15
+modified: 2024-06-22
 links:
   - https://youtu.be/-mN3VyJuCjM
 ---

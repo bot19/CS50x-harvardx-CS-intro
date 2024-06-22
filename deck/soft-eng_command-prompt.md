@@ -1,12 +1,11 @@
 ---
 title: What is a command prompt?
 category: software engineering
-tags:
-  - "#mdfc-deck-tech"
+keywords: command prompt, terminal
 order: 9
 created: 2024-06-16
-modified: 2024-06-16
-links: []
+modified: 2024-06-22
+links:
 ---
 
 > The command prompt is the string of characters displayed by the terminal emulator program. It indicates to the user that the terminal is ready to accept input that will be sent to the shell. The prompt typically shows information like the current working directory and username.

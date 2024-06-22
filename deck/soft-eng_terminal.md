@@ -1,11 +1,10 @@
 ---
 title: What is a terminal?
 category: software engineering
-tags:
-  - "#mdfc-deck-tech"
+keywords: terminal, shell, bash
 order: 8
 created: 2024-06-15
-modified: 2024-06-16
+modified: 2024-06-22
 links:
   - https://techterms.com/definition/terminal
 ---

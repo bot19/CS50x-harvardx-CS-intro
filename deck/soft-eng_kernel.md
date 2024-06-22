@@ -1,11 +1,10 @@
 ---
 title: What is the kernel?
 category: software engineering
-tags:
-  - "#mdfc-deck-tech"
+keywords: kernel, os, operating system
 order: 6
 created: 2024-06-15
-modified: 2024-06-16
+modified: 2024-06-22
 links:
   - https://www.youtube.com/watch?v=CxGSnA-RTsA
 ---

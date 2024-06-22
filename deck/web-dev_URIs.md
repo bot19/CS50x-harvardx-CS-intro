@@ -1,11 +1,10 @@
 ---
 title: What are URIs?
 category: web development
-tags:
-  - mdfc-deck-tech
+keywords: URIs, uniform resource identifier, REST API
 order: 3
 created: 2024-06-10
-modified: 2024-06-10
+modified: 2024-06-22
 links:
   - https://youtu.be/-mN3VyJuCjM
 ---

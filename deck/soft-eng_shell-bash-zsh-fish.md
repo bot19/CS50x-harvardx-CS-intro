@@ -1,11 +1,10 @@
 ---
 title: What is a shell? How does it relate to bash, zsh, fish?
 category: software engineering
-tags:
-  - "#mdfc-deck-tech"
+keywords: kernel, shell, bash, zsh, fish, command line interface, CLI
 order: 7
 created: 2024-06-15
-modified: 2024-06-16
+modified: 2024-06-22
 links:
   - https://www.youtube.com/watch?v=CxGSnA-RTsA
 ---
