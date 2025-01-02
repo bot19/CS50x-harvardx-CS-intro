@@ -4,6 +4,7 @@ Computer Science. Computational Thinking. Problem Solving: Inputs, Outputs. Repr
 
 1. lecture [cs50.harvard.edu/x/2024/weeks/0/](https://cs50.harvard.edu/x/2024/weeks/0/)
 2. notes [cs50.harvard.edu/x/2024/notes/0/](https://cs50.harvard.edu/x/2024/notes/0/)
+3. [problem set 0](https://cs50.harvard.edu/x/2024/psets/0/)
 
 ## Starting from Scratch
 

@@ -4,6 +4,7 @@ C. Source Code. Machine Code. Compiler. Correctness, Design, Style. Visual Studi
 
 1. lecture [cs50.harvard.edu/x/2024/weeks/1/](https://cs50.harvard.edu/x/2024/weeks/1/)
 2. notes [cs50.harvard.edu/x/2024/notes/1/](https://cs50.harvard.edu/x/2024/notes/1/)
+3. [problem set 1](https://cs50.harvard.edu/x/2024/psets/1/)
 
 ## Hello, It’s Me
 
