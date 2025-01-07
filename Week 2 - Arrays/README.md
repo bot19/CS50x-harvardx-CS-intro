@@ -18,8 +18,12 @@ Preprocessing. Compiling. Assembling. Linking. Debugging. Arrays. Strings. Comma
 2. [requirements](https://cs50.harvard.edu/x/2024/psets/2/readability/)
 3. [readability.c](./readability.c)
 
+![readability-working](readability-working.jpg)
+
 ## Substitution
 
 1. assignment 3 of 3
 2. [requirements](https://cs50.harvard.edu/x/2024/psets/1/credit/)
 3. [substitution.c](./substitution.c)
+
+![substitution-working](substitution-working.jpg)
