@@ -12,6 +12,9 @@ Preprocessing. Compiling. Assembling. Linking. Debugging. Arrays. Strings. Comma
 2. [requirements](https://cs50.harvard.edu/x/2024/psets/2/scrabble/#scrabble)
 3. [scrabble.c](./scrabble.c)
 
+Satisfies requirements
+![Satisfies requirements](./scrabble-submission.jpg)
+
 ## Readability
 
 1. assignment 2 of 3
@@ -20,6 +23,9 @@ Preprocessing. Compiling. Assembling. Linking. Debugging. Arrays. Strings. Comma
 
 ![readability-working](readability-working.jpg)
 
+Satisfies requirements
+![Satisfies requirements](./readability-submission.jpg)
+
 ## Substitution
 
 1. assignment 3 of 3
@@ -27,3 +33,6 @@ Preprocessing. Compiling. Assembling. Linking. Debugging. Arrays. Strings. Comma
 3. [substitution.c](./substitution.c)
 
 ![substitution-working](substitution-working.jpg)
+
+Satisfies requirements
+![Satisfies requirements](./substitution-submission.jpg)
