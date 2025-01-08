@@ -1,38 +1,38 @@
-# Week 2 Arrays (2024) problem set 2
+# Week 3 Algorithms (2025) problem set 3
 
-Preprocessing. Compiling. Assembling. Linking. Debugging. Arrays. Strings. Command-Line Arguments. Cryptography.
+Searching: Linear Search, Binary Search. Sorting: Bubble Sort, Selection Sort, Merge Sort. Asymptotic Notation: Big O, Big Omega, Big Theta. Recursion.
 
-1. lecture [cs50.harvard.edu/x/2024/weeks/2/](https://cs50.harvard.edu/x/2024/weeks/2/)
-2. notes [cs50.harvard.edu/x/2024/notes/2/](https://cs50.harvard.edu/x/2024/notes/2/)
-3. [problem set 2](https://cs50.harvard.edu/x/2024/psets/2/)
+1. [lecture](https://cs50.harvard.edu/x/2025/weeks/3/)
+2. [notes](https://cs50.harvard.edu/x/2025/notes/3/)
+3. [problem set 3](https://cs50.harvard.edu/x/2025/psets/3/)
 
-## Scrabble
+## Sort
 
 1. assignment 1 of 3
-2. [requirements](https://cs50.harvard.edu/x/2024/psets/2/scrabble/#scrabble)
-3. [scrabble.c](./scrabble.c)
+2. [requirements](https://cs50.harvard.edu/x/2025/psets/3/sort/)
+3. [Sort.md](Sort.md)
 
 Satisfies requirements
-![Satisfies requirements](./scrabble-submission.jpg)
+![Satisfies requirements](./sort-submission.jpg)
 
-## Readability
+## Plurality
 
 1. assignment 2 of 3
-2. [requirements](https://cs50.harvard.edu/x/2024/psets/2/readability/)
-3. [readability.c](./readability.c)
+2. [requirements](https://cs50.harvard.edu/x/2025/psets/3/plurality/)
+3. [plurality.c](./plurality.c)
 
 ![readability-working](readability-working.jpg)
 
 Satisfies requirements
-![Satisfies requirements](./readability-submission.jpg)
+![Satisfies requirements](./plurality-submission.jpg)
 
-## Substitution
+## Runoff
 
 1. assignment 3 of 3
-2. [requirements](https://cs50.harvard.edu/x/2024/psets/1/credit/)
-3. [substitution.c](./substitution.c)
+2. [requirements](https://cs50.harvard.edu/x/2025/psets/3/runoff/)
+3. [runoff.c](./runoff.c)
 
 ![substitution-working](substitution-working.jpg)
 
 Satisfies requirements
-![Satisfies requirements](./substitution-submission.jpg)
+![Satisfies requirements](./runoff-submission.jpg)
