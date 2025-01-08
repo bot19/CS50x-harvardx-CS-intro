@@ -12,14 +12,23 @@ C. Source Code. Machine Code. Compiler. Correctness, Design, Style. Visual Studi
 2. [requirements](https://cs50.harvard.edu/x/2024/psets/1/me/)
 3. [hello.c](./hello.c)
 
+Satisfies requirements
+![Satisfies requirements](./hello-submission.jpg)
+
 ## Mario
 
 1. assignment 2 of 3
 2. [requirements](https://cs50.harvard.edu/x/2024/psets/1/mario/more/#mario)
 3. [mario.c](./mario.c)
 
+Satisfies requirements
+![Satisfies requirements](./mario-more-submission.jpg)
+
 ## Credit
 
 1. assignment 3 of 3
 2. [requirements](https://cs50.harvard.edu/x/2024/psets/1/credit/)
 3. [credit.c](./credit.c)
+
+Satisfies requirements
+![Satisfies requirements](./credit-submission.jpg)
