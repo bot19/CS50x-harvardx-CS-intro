@@ -10,7 +10,8 @@ Preprocessing. Compiling. Assembling. Linking. Debugging. Arrays. Strings. Comma
 
 1. assignment 1 of 3
 2. [requirements](https://cs50.harvard.edu/x/2024/psets/2/scrabble/#scrabble)
-3. [scrabble.c](./scrabble.c)
+3. TL;DR work out the number/value sum of each word > which word wins or tie
+4. [scrabble.c](./scrabble.c)
 
 Satisfies requirements
 ![Satisfies requirements](./scrabble-submission.jpg)
@@ -19,7 +20,8 @@ Satisfies requirements
 
 1. assignment 2 of 3
 2. [requirements](https://cs50.harvard.edu/x/2024/psets/2/readability/)
-3. [readability.c](./readability.c)
+3. TL;DR grade a given text to appropriate reading level; work out by calculating the number of letters, words, sentences within and by a given equation
+4. [readability.c](./readability.c)
 
 ![readability-working](readability-working.jpg)
 
@@ -30,7 +32,8 @@ Satisfies requirements
 
 1. assignment 3 of 3
 2. [requirements](https://cs50.harvard.edu/x/2024/psets/1/credit/)
-3. [substitution.c](./substitution.c)
+3. TL;DR encrypt some text (only) given a key
+4. [substitution.c](./substitution.c)
 
 ![substitution-working](substitution-working.jpg)
 
