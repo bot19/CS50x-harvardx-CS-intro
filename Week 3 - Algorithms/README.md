@@ -21,7 +21,7 @@ Satisfies requirements
 2. [requirements](https://cs50.harvard.edu/x/2025/psets/3/plurality/)
 3. [plurality.c](./plurality.c)
 
-![readability-working](readability-working.jpg)
+![working-plurality.jpg](./working-plurality.jpg)
 
 Satisfies requirements
 ![Satisfies requirements](./plurality-submission.jpg)
@@ -32,7 +32,7 @@ Satisfies requirements
 2. [requirements](https://cs50.harvard.edu/x/2025/psets/3/runoff/)
 3. [runoff.c](./runoff.c)
 
-![substitution-working](substitution-working.jpg)
+![working-runoff.jpg](./working-runoff.jpg)
 
 Satisfies requirements
 ![Satisfies requirements](./runoff-submission.jpg)
