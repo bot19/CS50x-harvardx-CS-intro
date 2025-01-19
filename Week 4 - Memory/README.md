@@ -6,36 +6,41 @@ Searching: Linear Search, Binary Search. Sorting: Bubble Sort, Selection Sort, M
 2. [notes](https://cs50.harvard.edu/x/2025/notes/4/)
 3. [problem set 4](https://cs50.harvard.edu/x/2025/psets/4/)
 
-## Sort
+## Volume
 
 1. assignment 1 of 3
-2. [requirements](https://cs50.harvard.edu/x/2025/psets/3/sort/)
-3. TL;DR given various size data sets, sorted in various ways, run unnamed sorting algorithms and determine which algorithm sorted the data by the completion time (ref upper/lower bounds in the "order of" time)
-4. [Sort.md](Sort.md)
+2. [requirements](https://cs50.harvard.edu/x/2025/psets/4/volume/)
+3. TL;DR given an input .wav file, run a command with a number for the volume factor as additional input, to output a copy .wav file at altered volume level
+4. [volume.c](./volume.c)
+
+![volume-working.jpg](./volume-working.jpg)
 
 Satisfies requirements
-![Satisfies requirements](./sort-submission.jpg)
+![Satisfies requirements](./volume-check-passed.jpg)
 
-## Plurality
+## Filter (less)
 
 1. assignment 2 of 3
-2. [requirements](https://cs50.harvard.edu/x/2025/psets/3/plurality/)
-3. TL;DR determine the winning candidate given a list of candidates, number of voters and voter preference (1 vote per voter)
-4. [plurality.c](./plurality.c)
+2. [requirements](https://cs50.harvard.edu/x/2025/psets/4/filter/less/)
+3. TL;DR given a bitmap (.bmp) input, create filters that can modify and output .bmp files to filter effects/transformations like: grayscale, sepia, reflect and blur
+4. [filter-less-helpers.c](./filter-less-helpers.c)
 
-![working-plurality.jpg](./working-plurality.jpg)
+![filter-less-working.jpg](./filter-less-working.jpg)
+![filter-less-working-2.jpg](./filter-less-working-2.jpg)
 
 Satisfies requirements
-![Satisfies requirements](./plurality-submission.jpg)
+![Satisfies requirements](./filter-less-check-passed.jpg)
 
-## Runoff
+## Recover
 
 1. assignment 3 of 3
-2. [requirements](https://cs50.harvard.edu/x/2025/psets/3/runoff/)
-3. TL;DR Like Plurality, except now voters have preferences for each candidate. Determine the winning candidate or candidates by eliminating least voted for candidates
-4. [runoff.c](./runoff.c)
+2. [requirements](https://cs50.harvard.edu/x/2025/psets/4/recover/)
+3. TL;DR given a "memory card" full of photos that has been wiped, write a program to recover the deleted JPEGs
+4. [recover.c](./recover.c)
 
-![working-runoff.jpg](./working-runoff.jpg)
+![recover-jpegs-in-mem-card.jpg](./recover-jpegs-in-mem-card.jpg)
+
+![recover-working.jpg](./recover-working.jpg)
 
 Satisfies requirements
-![Satisfies requirements](./runoff-submission.jpg)
+![Satisfies requirements](./recover-check-passed.jpg)
