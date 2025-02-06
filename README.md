@@ -2,7 +2,9 @@
 
 HarvardX CS50x - CS50's Introduction to Computer Science 2025 (3 weeks in 2024).
 
-Will hold my assignments and ideally working notes.
+Will hold my assignments and detailed working notes (click on each week to see its README).
+
+More info if interested:
 
 Having come from a bachelors of Multimedia Design, I got my programming start from a mixture of building websites as a hobby (2005-2010 era), 1 programming subject from Mechatronics, 2 subjects from Multimedia Design (web and flash, lol) and finally a part-time job building websites and implementing them into CMSs.
 
