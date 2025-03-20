@@ -1,0 +1,24 @@
+How would you characterize their audio aura?
+
+Data:
++-------------------+-------------+--------------+
+| AVG(danceability) | AVG(energy) | AVG(valence) |
++-------------------+-------------+--------------+
+| 0.71646           | 0.65906     | 0.484443     |
++-------------------+-------------+--------------+
+
+I looks like this user likes dancing music on the higher end of energic but neutral in terms of positivity-neither somber or happy/upbeat.
+
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+
+The issue here is for example, if the user happens to like both songs that they can dance to, and songs that aren't meant for dancing.
+
+In other words, their tastes lie at both extremes of a metric (or a large delta between), thus an average would not be indicative of their preference.
+
+Right now, if the "Audio Aura" takes into account a single value across these 3 metrics, perhaps an improvement would be the accommodation for min-max value instead.
+
+Suppose the AA comes out as a colour gradient mixture of potentially 3 colours, now it could accommodate 6!
+
+If the delta is small in each metric, it would produce roughly the same result as previous, but if not, the 4/5/6 colours would be more representative!
+
+Or even if these 3 values only inform an algorithm that produces the colour gradients, having 6 values would be more accurate!
